@@ -1,5 +1,5 @@
 {
-  "name": "is-null-or-empty",
+  "name": "is-null-or-empty-trial",
   "version": "1.0.0",
   "description": "Checkout whether a given string is null or empty",
   "main": "index.js",
